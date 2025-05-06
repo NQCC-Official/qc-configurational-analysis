@@ -1,0 +1,2 @@
+Num_hits_genuine_avg,Num_hits_genuine_std,QOS_avg,QOS_std,SAR_18,SAR_18_std,Time_avg,Time_std,QPU_Time_avg,QPU_Time_std,iters_avg,iters_std,Validity_avg,Validity_std,SAR_full_range_avg,SAR_full_range_std,,SAR_18_std
+18.29,6.667462036,59.45128223,12.44801887,0.760931894,0.0799439,2542.484156,393.9597315,941.4,213.5516331,182.6,40.40173264,30.134,5.173952068,0.999312034,0.000230054,,0.0715
